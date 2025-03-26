@@ -1,3 +1,63 @@
+🌾 AI-Driven Agricultural Advisory System
+🚀 A Smart AI-Powered Platform for Small & Marginal Farmers
+Google Developers Group Solution Challenge 2025 Submission
+📌 Project Overview
+Small and marginal farmers face challenges in making data-driven decisions for farming. Our AI-driven agricultural advisory system provides real-time recommendations on:
+✅ Weather Forecasting (Google Gemini API)
+✅ Soil Health Monitoring (IoT-based Sensors)
+✅ Pest & Disease Detection (AI-based Image Recognition)
+✅ Irrigation Advisory (Smart Water Management)
+✅ Market Linkages (Crop Price Predictions & Buyer-Seller Platform)
+
+This full-stack web application integrates Machine Learning, IoT, and Google Cloud tools to improve farming efficiency and productivity.
+
+🎯 Features & Tech Stack
+✨ Features
+✔ AI-powered Crop & Disease Detection
+✔ IoT-enabled Real-time Soil Monitoring
+✔ Google Cloud & Gemini API for Weather Forecasting
+✔ Smart Irrigation & Water Management Advisory
+✔ Market Linkages & Price Predictions
+
+🔧 Tech Stack
+Frontend:
+React.js / Next.js
+
+Tailwind CSS / Material UI
+
+Backend:
+Flask / FastAPI
+
+PostgreSQL / Firebase
+
+AI & Machine Learning:
+TensorFlow / PyTorch
+
+Google Vertex AI
+
+OpenCV (for image processing)
+
+IoT & Hardware:
+Arduino / Raspberry Pi
+
+Soil & Moisture Sensors
+
+🛠 Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/AgriApi.git
+cd AgriApi
+2️⃣ Setup Backend (Flask / FastAPI)
+cd backend
+pip install -r requirements.txt
+python app.py
+3️⃣ Setup Frontend (React.js)
+cd frontend
+npm install
+npm start
+4️⃣ IoT & AI Model Setup
+Ensure Arduino / Raspberry Pi is connected
+Run AI model scripts (models/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
